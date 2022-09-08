@@ -6,7 +6,9 @@
 - 💬 Ask me about **Web Development, App Development**
 
 - 😄 Pronouns: He/His
+
 <br/>
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/karan-karakoti-285511176/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -15,7 +17,10 @@
   <a href="https://t.me/karankarakoti"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
+<br/>
+
 <h3 align="left">My Tech Stack :</h3>
+
 <div align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -31,7 +36,10 @@
   <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
 </div>
 
+<br/>
+
 <h3 align="left">Languages :</h3>
+
 <div align="left">  
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -39,28 +47,38 @@
 </div>
 
 <h3 align="left">Databases :</h3>
+
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
 </div>
 
+<br/>
 
 <h3 align="left">Hosting :</h3>
+
 <div align="left">  
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>  
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
+
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karankarakoti&show_icons=true&theme=dark&locale=en" alt="karankarakoti" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarakoti&show_icons=true&theme=dark&locale=en&layout=compact" alt="karankarakoti" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=karankarakoti&show_icons=true&theme=light&locale=en" alt="karankarakoti" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karankarakoti&theme=light" alt="karankarakoti" />
+     </td>
   </tr>
 </table>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karankarakoti&theme=dark" alt="karankarakoti" /></p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarakoti&show_icons=true&theme=light&locale=en&layout=compact" alt="karankarakoti" />
+  </p>
  </div>
