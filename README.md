@@ -82,3 +82,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarakoti&show_icons=true&theme=light&locale=en&layout=compact" alt="karankarakoti" />
   </p>
  </div>
+ 
+### Thank you for the visit.
+![](http://profile-counter.glitch.me/karankarakoti/count.svg)
